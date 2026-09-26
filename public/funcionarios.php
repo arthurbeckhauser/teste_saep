@@ -136,7 +136,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <nav>
         <a href="index.php">Painel</a>
         <a href="funcionarios.php">Funcionários</a>
-        <a href="pedidos.php">Pedidos</a>
+        <a href="pedidos.php">Cadastrar pedido</a>
     </nav>
 
 </header>
