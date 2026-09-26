@@ -134,7 +134,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <h1>Sistema de Reposição de Medicamentos</h1>
 
     <nav>
-        <a href="index.php">Início</a>
+        <a href="index.php">Painel</a>
         <a href="funcionarios.php">Funcionários</a>
         <a href="pedidos.php">Pedidos</a>
     </nav>
