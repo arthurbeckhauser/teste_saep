@@ -136,6 +136,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <nav>
         <a href="index.php">Início</a>
         <a href="funcionarios.php">Funcionários</a>
+        <a href="pedidos.php">Pedidos</a>
     </nav>
 
 </header>
